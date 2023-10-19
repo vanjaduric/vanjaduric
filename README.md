@@ -9,7 +9,7 @@ I'm a Psychology student with a passion for Neuroscience and Computer Science.
 ## My Toolbox 🧰
 
 - **Languages:** R - primary one; some knowledge of Python, JavaScript & HTML.
-- **Tools:**: Excel, JASP, SPSS, NetLogo
+- **Tools:** Excel, JASP, SPSS, NetLogo.
 
 ## Projects
 
