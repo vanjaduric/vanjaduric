@@ -8,7 +8,7 @@ I'm a Psychology student with a passion for Neuroscience and Computer Science.
 
 ## My Toolbox 🧰
 
-- **Languages:** R - primary one; some knowledge of Python, JavaScript & HTML.
+- **Languages:** R - primary one; intermediate knowledge of Python, JavaScript & HTML. Learning SQL and Tableau.
 - **Tools:** Excel, JASP, SPSS, NetLogo.
 
 ## Projects
