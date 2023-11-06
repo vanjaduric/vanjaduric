@@ -3,7 +3,7 @@
 I'm a Psychology student with a passion for Neuroscience and Computer Science.
 
 - 🌱 I'm currently trying to expand my knowledge of machine learning.
-- 💼 I'm currently seeking a job as a Data Analyst.
+- 💼 I'm currently seeking a job as a Data Analyst/Research Associate.
 - 🎯 My goal is to learn more about how complex systems in nature and in silico work.
 
 ## My Toolbox 🧰
